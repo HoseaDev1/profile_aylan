@@ -1,6 +1,15 @@
+
 h1{
     color: red;
 }
 #nama_kue{
     color: blue;
+}
+a{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    display: inline;
+    font-family: sans-serif;
+    padding: 10px;
 }
